@@ -917,7 +917,9 @@
                     let now = new Date();
                     let diff = nextDate - now;
                     if(diff <= 0) {
-                        document.getElementById('countdown-timer').innerText = "即將更新...";
+                        document.getElementById('countdown-timer').innerText = "系統上傳中 (請稍候3~5分鐘)";
+                        document.getElementById('countdown-timer').style.fontSize = "15px";
+                        document.getElementById('countdown-timer').style.color = "#d84315";
                     } else {
                         let m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                         let s = Math.floor((diff % (1000 * 60)) / 1000);
