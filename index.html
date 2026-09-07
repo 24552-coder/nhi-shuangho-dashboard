@@ -1005,15 +1005,25 @@
                 
                 setInterval(function() {
                     let now = new Date();
+                    // Auto-advance nextDate if we missed multiple hours (more than 5 mins past)
+                    while (nextDate < now && (now - nextDate) > 300000) {
+                        nextDate = new Date(nextDate.getTime() + 60 * 60 * 1000);
+                    }
+                    
                     let diff = nextDate - now;
-                    if(diff <= 0) {
+                    if(diff <= 0 && diff > -300000) {
                         document.getElementById('countdown-timer').innerText = "系統上傳中 (請稍候3~5分鐘)";
+                        document.getElementById('countdown-timer').style.fontSize = "15px";
+                        document.getElementById('countdown-timer').style.color = "#d84315";
+                    } else if (diff <= -300000) {
+                        document.getElementById('countdown-timer').innerText = "等待系統重試中...";
                         document.getElementById('countdown-timer').style.fontSize = "15px";
                         document.getElementById('countdown-timer').style.color = "#d84315";
                     } else {
                         let m = Math.floor((diff % (1000 * 60 * 60)) / (1000 * 60));
                         let s = Math.floor((diff % (1000 * 60)) / 1000);
                         document.getElementById('countdown-timer').innerText = m + " 分 " + s + " 秒";
+                        document.getElementById('countdown-timer').style.color = "#004d40";
                     }
                 }, 1000);
             }
