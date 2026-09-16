@@ -1,5 +1,132 @@
 [
   {
+    "timestamp": "2026-09-16 13:37:01",
+    "status": "成功",
+    "category": "健保公告 & 法規公告",
+    "items_count": 5,
+    "attachments_count": 8,
+    "announcements": [
+      {
+        "category": "法規公告",
+        "title": "公告修訂4.2.血液代用製劑及血液成分製劑及附表十八之五重型血友病患醫療評估追蹤紀錄表之給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20417-e7781-3258-1.html",
+        "content": "公告修訂4.2.血液代用製劑及血液成分製劑及附表十八之五重型血友病患醫療評估追蹤紀錄表之給付規定。 健保審字第1150672381號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第4節血液治療藥物 Hematological drugs 4.2.血液代用製劑及血液成分製劑及附表十八之五重型血友病患醫療評估追蹤紀錄表」部分規定，給付規定修訂對照表如附件。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102267-35b4b2d35ad74301818c171d3b3ded79-1.pdf",
+            "file_size": 81879,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102267-35b4b2d35ad74301818c171d3b3ded79-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告修訂4.2.血液代用製劑及血液成分製劑及附表十八之五重型血友病患醫療評估追蹤紀錄表之給付規定。<br>\n• <b>發文字號</b>：健保審字第1150672381號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第4節血液治療藥物 Hematological drugs 4.2.血液代用製劑及血液成分製劑及附表十八之五重型血友病患醫療評估追蹤紀錄表」部分規定，給付規定修訂對照表如附件。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含pegcetacoplan成分藥品Aspaveli/Empaveli 1080mg solution for infusion及其藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20421-b4c5a-3258-1.html",
+        "content": "公告暫予支付含pegcetacoplan成分藥品Aspaveli/Empaveli 1080mg solution for infusion及其藥品給付規定。 健保審字第1150057031號 全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載項目明細表」如附件1。\n\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第8節 免疫製劑 Immunologic agents 8.2.19.Danicopan (如Voydeya)、iptacopan (如Fabhalta)、pegcetacoplan (如Aspaveli/Empaveli)」給付規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102289-30b5276342734b6ea82c24162a8fce0c-1.pdf",
+            "file_size": 54035,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102289-30b5276342734b6ea82c24162a8fce0c-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102291-c0c0a439877c4a75a6c5b11fba9f072a-1.pdf",
+            "file_size": 188978,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102291-c0c0a439877c4a75a6c5b11fba9f072a-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含pegcetacoplan成分藥品Aspaveli/Empaveli 1080mg solution for infusion及其藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150057031號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載項目明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第8節 免疫製劑 Immunologic agents 8.2.19.Danicopan (如Voydeya)、iptacopan (如Fabhalta)、pegcetacoplan (如Aspaveli/Empaveli)」給付規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告異動含migalastat hydrochloride成分藥品Galafold支付價格及修訂其給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20418-50b11-3258-1.html",
+        "content": "公告異動含migalastat hydrochloride成分藥品Galafold支付價格及修訂其給付規定。 健保審字第1150057033號 全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品已收載項目異動明細表」如附件1。\n\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第3節代謝及營養劑Metabolic & nutrient agents 3.3.28.Migalastat hydrochloride (如Galafold)」給付規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102282-70532c4d72e54a45ae22c346767b87bd-1.pdf",
+            "file_size": 60341,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102282-70532c4d72e54a45ae22c346767b87bd-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102275-e1b45058655648baba5008e3ce41c993-1.pdf",
+            "file_size": 103464,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102275-e1b45058655648baba5008e3ce41c993-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告異動含migalastat hydrochloride成分藥品Galafold支付價格及修訂其給付規定。<br>\n• <b>發文字號</b>：健保審字第1150057033號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品已收載項目異動明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第3節代謝及營養劑Metabolic & nutrient agents 3.3.28.Migalastat hydrochloride (如Galafold)」給付規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告異動含rivaroxaban 2.5mg成分藥品Xarelto之支付價格及修訂其給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20416-6a97b-3258-1.html",
+        "content": "公告異動含rivaroxaban 2.5mg成分藥品Xarelto之支付價格及修訂其給付規定。 健保審字第1150056995號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品已收載項目異動明細表」如附件1。\n\n二、修訂「全民健康保險藥物給付項目及支付標準-第六編第八十三條之藥品給付規定第2節心臟血管及腎臟藥物 Cardiovascular-renal drugs 2.1.4.2.Rivaroxaban(如Xarelto)」給付規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102264-556f22d9c33d42e8b9660b724fc00a0c-1.pdf",
+            "file_size": 58556,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102264-556f22d9c33d42e8b9660b724fc00a0c-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102265-a683bce19c3547cfa2e81c5ca285b349-1.pdf",
+            "file_size": 114465,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102265-a683bce19c3547cfa2e81c5ca285b349-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告異動含rivaroxaban 2.5mg成分藥品Xarelto之支付價格及修訂其給付規定。<br>\n• <b>發文字號</b>：健保審字第1150056995號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品已收載項目異動明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準-第六編第八十三條之藥品給付規定第2節心臟血管及腎臟藥物 Cardiovascular-renal drugs 2.1.4.2.Rivaroxaban(如Xarelto)」給付規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告修訂8.1.3.高單位免疫球蛋白之藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20420-f8997-3258-1.html",
+        "content": "公告修訂8.1.3.高單位免疫球蛋白之藥品給付規定。 健保審字第1150672509號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準 修訂「全民健康保險藥物給付項目及支付標準—第六編第八十三條之藥品給付規定第8節免疫製劑Immunologic agents 8.1.3.高單位免疫球蛋白」部分規定，給付規定對照表如附件。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102287-7cce83c5d997499990372e06ff7784ef-1.pdf",
+            "file_size": 92950,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102287-7cce83c5d997499990372e06ff7784ef-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告修訂8.1.3.高單位免疫球蛋白之藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150672509號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準<br>\n• <b>公告重點</b>：修訂「全民健康保險藥物給付項目及支付標準—第六編第八十三條之藥品給付規定第8節免疫製劑Immunologic agents 8.1.3.高單位免疫球蛋白」部分規定，給付規定對照表如附件。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16 12:36:09",
     "status": "無新公告",
     "category": "健保公告 & 法規公告",
