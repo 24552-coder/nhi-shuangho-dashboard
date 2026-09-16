@@ -1,5 +1,130 @@
 [
   {
+    "timestamp": "2026-09-16 16:36:55",
+    "status": "成功",
+    "category": "健保公告 & 法規公告",
+    "items_count": 4,
+    "attachments_count": 10,
+    "announcements": [
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含tislelizumab成分藥品Tevimbra Concentrated Solution for Infusion及修訂9.69.免疫檢查點抑制劑、9.2. Carboplatin、9.26. Pemetrexed及9.5.1. Paclitaxel成分注射劑藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20426-816a9-3258-1.html",
+        "content": "公告暫予支付含tislelizumab成分藥品Tevimbra Concentrated Solution for Infusion及修訂9.69.免疫檢查點抑制劑、9.2. Carboplatin、9.26. Pemetrexed及9.5.1. Paclitaxel成分注射劑藥品給付規定。 健保審字第1150672522號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載品項明細表」如附件1。\n\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.69.免疫檢查點抑制劑、9.2. Carboplatin、9.26. Pemetrexed及9.5.1. Paclitaxel成分注射劑」部分規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102293-7fc06bfa92044e2cbe183766b4f1cc3a-1.pdf",
+            "file_size": 87222,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102293-7fc06bfa92044e2cbe183766b4f1cc3a-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102295-27291c4ec0bf4ea18b2ed65ec171062f-1.pdf",
+            "file_size": 175850,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102295-27291c4ec0bf4ea18b2ed65ec171062f-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含tislelizumab成分藥品Tevimbra Concentrated Solution for Infusion及修訂9.69.免疫檢查點抑制劑、9.2. Carboplatin、9.26. Pemetrexed及9.5.1. Paclitaxel成分注射劑藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150672522號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載品項明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.69.免疫檢查點抑制劑、9.2. Carboplatin、9.26. Pemetrexed及9.5.1. Paclitaxel成分注射劑」部分規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含axicabtagene ciloleucel成分藥品Yescarta suspension for intravenous infusion及其藥品給付規定暨修訂含tisagenlecleucel成分藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20429-6c691-3258-1.html",
+        "content": "公告暫予支付含axicabtagene ciloleucel成分藥品Yescarta suspension for intravenous infusion及其藥品給付規定暨修訂含tisagenlecleucel成分藥品給付規定。 健保審字第1150056971號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載項目明細表」如附件1。\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.140. Axicabtagene ciloleucel（如Yescarta）及9.103.Tisagenlecleucel（如Kymriah）」部分規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102314-49d4fcb8f01145d58bc036d79c5627ed-1.pdf",
+            "file_size": 50217,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102314-49d4fcb8f01145d58bc036d79c5627ed-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102316-78594e218f46406b8d2956203c397ca5-1.pdf",
+            "file_size": 197868,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102316-78594e218f46406b8d2956203c397ca5-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含axicabtagene ciloleucel成分藥品Yescarta suspension for intravenous infusion及其藥品給付規定暨修訂含tisagenlecleucel成分藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150056971號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載項目明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.140. Axicabtagene ciloleucel（如Yescarta）及9.103.Tisagenlecleucel（如Kymriah）」部分規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含mogamulizumab成分藥品Poteligeo 4 mg/mL concentrate for solution for infusion 及其藥品給付規定暨修訂含brentuximab vedotin成分藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20428-4e0b9-3258-1.html",
+        "content": "公告暫予支付含mogamulizumab成分藥品Poteligeo 4 mg/mL concentrate for solution for infusion 及其藥品給付規定暨修訂含brentuximab vedotin成分藥品給付規定。 健保審字第1150056967號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載項目明細表」如附件1。\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.139. Mogamulizumab（如Poteligeo）及9.56.Brentuximab vedotin（如Adcetris）」部分規定，給付規定修訂對照表如附件2。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102310-aec21e2c71e0415c85adb32ade21789a-1.pdf",
+            "file_size": 49522,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102310-aec21e2c71e0415c85adb32ade21789a-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102312-263cf2dff98b46d59afc32fbb7ebcf46-1.pdf",
+            "file_size": 97348,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102312-263cf2dff98b46d59afc32fbb7ebcf46-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含mogamulizumab成分藥品Poteligeo 4 mg/mL concentrate for solution for infusion 及其藥品給付規定暨修訂含brentuximab vedotin成分藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150056967號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載項目明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第9節抗癌瘤藥物Antineoplastics drugs 9.139. Mogamulizumab（如Poteligeo）及9.56.Brentuximab vedotin（如Adcetris）」部分規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付新增及異動「全民健康保險藥物給付項目及支付標準」之藥物項目計101項。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20427-8b7b3-3258-1.html",
+        "content": "公告暫予支付新增及異動「全民健康保險藥物給付項目及支付標準」之藥物項目計101項。 健保審字第1150672500號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 「全民健康保險藥品新收載項目明細表」及「全民健康保險藥品已收載項目異動明細表」如附件。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102299-331b8d8a43d04e86bff498ec5429f62b-1.pdf",
+            "file_size": 213489,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102299-331b8d8a43d04e86bff498ec5429f62b-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102301-901f7bd9f0514f148b0628e71298100f-1.pdf",
+            "file_size": 272745,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102301-901f7bd9f0514f148b0628e71298100f-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102305-4a5f0d69315242cf9d9f553c466f3201-1.pdf",
+            "file_size": 76865,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102305-4a5f0d69315242cf9d9f553c466f3201-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102307-7ebff6442eb54d0fa601843cea882d44-1.pdf",
+            "file_size": 54789,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102307-7ebff6442eb54d0fa601843cea882d44-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付新增及異動「全民健康保險藥物給付項目及支付標準」之藥物項目計101項。<br>\n• <b>發文字號</b>：健保審字第1150672500號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：「全民健康保險藥品新收載項目明細表」及「全民健康保險藥品已收載項目異動明細表」如附件。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16 15:36:09",
     "status": "無新公告",
     "category": "健保公告 & 法規公告",
