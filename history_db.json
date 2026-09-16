@@ -1,5 +1,60 @@
 [
   {
+    "timestamp": "2026-09-16 20:36:29",
+    "status": "成功",
+    "category": "健保公告 & 法規公告",
+    "items_count": 2,
+    "attachments_count": 3,
+    "announcements": [
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含cyclophosphamide monohydrate成分注射劑Endoxan Injection 1,000mg為不可替代特殊藥品。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20431-ca256-3258-1.html",
+        "content": "公告暫予支付含cyclophosphamide monohydrate成分注射劑Endoxan Injection 1,000mg為不可替代特殊藥品。 健保審字第1150056966號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 「全民健康保險藥品新收載項目明細表」及「全民健康保險藥品執行原則藥物名單」如附件。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102321-d028e36f82e74a90b7a4107aadf6d7c4-1.pdf",
+            "file_size": 57469,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102321-d028e36f82e74a90b7a4107aadf6d7c4-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102323-c25106dd28444cc8b75aacc5f1e37c76-1.pdf",
+            "file_size": 55211,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102323-c25106dd28444cc8b75aacc5f1e37c76-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含cyclophosphamide monohydrate成分注射劑Endoxan Injection 1,000mg為不可替代特殊藥品。<br>\n• <b>發文字號</b>：健保審字第1150056966號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：「全民健康保險藥品新收載項目明細表」及「全民健康保險藥品執行原則藥物名單」如附件。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含aripiprazole monohydrate成分藥品ABILIFY ASIMTUFII (aripiprazole) extened-release injectable suspension 720 mg及960 mg共2項目。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20430-d51d6-3258-1.html",
+        "content": "公告暫予支付含aripiprazole monohydrate成分藥品ABILIFY ASIMTUFII (aripiprazole) extened-release injectable suspension 720 mg及960 mg共2項目。 健保審字第1150672506號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 「全民健康保險藥品新收載項目明細表」如附件。",
+        "date": "115-09-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-09-15_dl-102317-5c7f2b17ea6349718387c43a8d31a510-1.pdf",
+            "file_size": 59500,
+            "local_path": "C:\\shh_ai\\attachments\\115-09-15_dl-102317-5c7f2b17ea6349718387c43a8d31a510-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含aripiprazole monohydrate成分藥品ABILIFY ASIMTUFII (aripiprazole) extened-release injectable suspension 720 mg及960 mg共2項目。<br>\n• <b>發文字號</b>：健保審字第1150672506號<br>\n• <b>發文日期</b>：115-09-15<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：「全民健康保險藥品新收載項目明細表」如附件。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-09-16 19:36:09",
     "status": "無新公告",
     "category": "健保公告 & 法規公告",
