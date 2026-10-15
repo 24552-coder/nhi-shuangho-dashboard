@@ -1,5 +1,66 @@
 [
   {
+    "timestamp": "2026-10-15 18:36:34",
+    "status": "成功",
+    "category": "健保公告 & 法規公告",
+    "items_count": 2,
+    "attachments_count": 4,
+    "announcements": [
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含rADAMTS13成分藥品Adzynma 1500IU, 500IU powder and solvent for solution for injection共2項目及其藥品給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20485-a32d2-3258-1.html",
+        "content": "公告暫予支付含rADAMTS13成分藥品Adzynma 1500IU, 500IU powder and solvent for solution for injection共2項目及其藥品給付規定。 健保審字第1150057146號 全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載項目明細表」如附件1。\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第4節 血液治療藥物 Hematological drugs 4.3.8. rADAMTS13 (如Adzynma)」給付規定，給付規定修訂對照表如附件2。",
+        "date": "115-10-15",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-10-15_dl-102890-3f27b69e000c483cbe3be10bad7eaa79-1.pdf",
+            "file_size": 56856,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-15_dl-102890-3f27b69e000c483cbe3be10bad7eaa79-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-10-15_dl-102892-e8519aa96e9f435fb7080e3a2430900a-1.pdf",
+            "file_size": 85236,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-15_dl-102892-e8519aa96e9f435fb7080e3a2430900a-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含rADAMTS13成分藥品Adzynma 1500IU, 500IU powder and solvent for solution for injection共2項目及其藥品給付規定。<br>\n• <b>發文字號</b>：健保審字第1150057146號<br>\n• <b>發文日期</b>：115-10-15<br>\n• <b>法規依據</b>：全民健康保險法第41條及全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載項目明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定第4節 血液治療藥物 Hematological drugs 4.3.8. rADAMTS13 (如Adzynma)」給付規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      },
+      {
+        "category": "法規公告",
+        "title": "公告暫予支付含concizumab成分藥品Alhemo solution for injection in pre-filled pen 15mg/1.5mL、60mg/1.5mL、150mg/1.5mL及300mg/3mL共4項目及其藥品給付規定，並修訂藥品給付規定通則等相關給付規定。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20484-a6ca2-3258-1.html",
+        "content": "公告暫予支付含concizumab成分藥品Alhemo solution for injection in pre-filled pen 15mg/1.5mL、60mg/1.5mL、150mg/1.5mL及300mg/3mL共4項目及其藥品給付規定，並修訂藥品給付規定通則等相關給付規定。 健保審字第1150057388號 全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。 一、「全民健康保險藥品新收載項目明細表」如附件1。\n\n二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定通則、第4節血液治療藥物Hematological drugs 4.2.血液代用製劑及血液成分製劑、4.2.7.雙特異性單株抗體藥物(如emicizumab)、4.2.8.Fitusiran(如Qfitlia)、4.2.9.Concizumab(如 Alhemo)給付規定、附表十八之五及附表十八之七」給付規定，給付規定修訂對照表如附件2。",
+        "date": "115-10-14",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-10-14_dl-102871-ebf1ad6ba7ff4d56ae85a361f80a2c31-1.pdf",
+            "file_size": 58761,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-14_dl-102871-ebf1ad6ba7ff4d56ae85a361f80a2c31-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-10-14_dl-102873-7afac66489524d0198ca11718421963b-1.pdf",
+            "file_size": 306977,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-14_dl-102873-7afac66489524d0198ca11718421963b-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告暫予支付含concizumab成分藥品Alhemo solution for injection in pre-filled pen 15mg/1.5mL、60mg/1.5mL、150mg/1.5mL及300mg/3mL共4項目及其藥品給付規定，並修訂藥品給付規定通則等相關給付規定。<br>\n• <b>發文字號</b>：健保審字第1150057388號<br>\n• <b>發文日期</b>：115-10-14<br>\n• <b>法規依據</b>：全民健康保險法第41條暨全民健康保險藥物給付項目及支付標準。<br>\n• <b>公告重點</b>：一、「全民健康保險藥品新收載項目明細表」如附件1。 二、修訂「全民健康保險藥物給付項目及支付標準－第六編第八十三條之藥品給付規定通則、第4節血液治療藥物Hematological drugs 4.2.血液代用製劑及血液成分製劑、4.2.7.雙特異性單株抗體藥物(如emicizumab)、4.2.8.Fitusiran(如Qfitlia)、4.2.9.Concizumab(如 Alhemo)給付規定、附表十八之五及附表十八之七」給付規定，給付規定修訂對照表如附件2。",
+        "recommendations": [
+          "【藥劑部】立即檢視受影響藥品之院內現行採購合約價與常備庫存，與廠商協商進價或啟動學名藥替代以防藥價差虧損。",
+          "【資訊室 & 醫管處】預排 HIS 藥品檔生效新健保支付價格，確保門住診醫令即時更新。"
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-15 17:36:11",
     "status": "無新公告",
     "category": "健保公告 & 法規公告",
