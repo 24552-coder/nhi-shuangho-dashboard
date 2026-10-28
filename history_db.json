@@ -1,5 +1,40 @@
 [
   {
+    "timestamp": "2026-10-28 17:36:22",
+    "status": "成功",
+    "category": "健保公告 & 法規公告",
+    "items_count": 1,
+    "attachments_count": 2,
+    "announcements": [
+      {
+        "category": "法規公告",
+        "title": "公告修訂「全民健康保險醫療資源不足地區之醫療服務提升計畫」，並溯自115年1月1日起生效。",
+        "url": "https://www.nhi.gov.tw/ch/cp-20676-2c4e2-3258-1.html",
+        "content": "公告修訂「全民健康保險醫療資源不足地區之醫療服務提升計畫」，並溯自115年1月1日起生效。 健保醫字第1150122434號 衛生福利部115年10月21日衛部保字第1151260522號函辦理 ",
+        "date": "115-10-28",
+        "attachments": [
+          {
+            "title": "pdf",
+            "file_name": "115-10-28_dl-103626-ac64e21096bc42ed80b36d9c3cba36ba-1.pdf",
+            "file_size": 49892,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-28_dl-103626-ac64e21096bc42ed80b36d9c3cba36ba-1.pdf"
+          },
+          {
+            "title": "pdf",
+            "file_name": "115-10-28_dl-103625-3f6371edc8524060b18b7cbcbfa205e9-1.pdf",
+            "file_size": 296592,
+            "local_path": "C:\\shh_ai\\attachments\\115-10-28_dl-103625-3f6371edc8524060b18b7cbcbfa205e9-1.pdf"
+          }
+        ],
+        "summary": "• <b>公文主旨</b>：公告修訂「全民健康保險醫療資源不足地區之醫療服務提升計畫」，並溯自115年1月1日起生效。<br>\n• <b>發文字號</b>：健保醫字第1150122434號<br>\n• <b>發文日期</b>：115-10-28<br>\n• <b>法規依據</b>：衛生福利部115年10月21日衛部保字第1151260522號函辦理",
+        "recommendations": [
+          "【醫事處 & 醫管處】通報相關權責科室研析健保公告規定，落實法規遵循與業務對接。",
+          "【資訊室】評估 HIS 醫令申報與病歷記載是否需要系統更動。"
+        ]
+      }
+    ]
+  },
+  {
     "timestamp": "2026-10-28 16:36:10",
     "status": "無新公告",
     "category": "健保公告 & 法規公告",
